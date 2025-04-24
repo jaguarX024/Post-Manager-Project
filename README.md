@@ -5,7 +5,7 @@ This project manages social media posts, prioritizing them based on factors like
 **Classes:**
 
 * **SQueue**: This class implements the post queue, ordering posts according to their calculated priority. It employs a skew-heap or Leftist-heap for efficient management and allows switching between these heap types.
-* **Post**: This class (provided) represents a social media post with attributes such as its ID, number of likes, connection level between users, posting time, and user interest level.
+* **Post**: This class represents a social media post with attributes such as its ID, number of likes, connection level between users, posting time, and user interest level.
 
 **Relationship:**
 
