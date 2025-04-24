@@ -9,7 +9,7 @@ This project manages social media posts, prioritizing them based on factors like
 
 **Relationship:**
 
-The `SQueue` class organizes and prioritizes `Post` objects, effectively managing the order in which posts are displayed or processed. Post priority is determined by a user-defined function that considers the post's attributes.
+The SQueue class organizes and prioritizes Post objects, effectively managing the order in which posts are displayed or processed. Post priority is determined by a user-defined function that considers the post's attributes.
 
 **Key Features:**
 
