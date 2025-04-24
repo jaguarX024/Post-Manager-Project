@@ -19,4 +19,4 @@ The SQueue class organizes and prioritizes Post objects, effectively managing th
 * Allows flexible customization of post prioritization through user-defined priority functions.
 * Handles social media posts with varying attributes relevant to social media platforms.
 
-This repository provides a system for managing and prioritizing social media posts according to different weighting of criteria.
+
